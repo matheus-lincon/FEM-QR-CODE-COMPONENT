@@ -27,5 +27,5 @@ body {
   font-family: "Outfit", sans-serif;
   font-size: 1.5rem;
   background-color: var(--slate-300);
-  height: 100vh;
+  min-height: 100svh;
 }

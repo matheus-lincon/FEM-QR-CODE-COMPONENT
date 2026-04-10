@@ -11,7 +11,7 @@ body,
 
   text-align: center;
   width: 90%;
-  max-width: 320px;
+  max-width: 32rem;
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
 
   & .card__img {
@@ -31,8 +31,7 @@ body,
 
   & .card__desc {
     color: var(--slate-500);
-    margin-bottom: 4rem;
     max-width: 250px;
-    margin: 0 auto calc(4rem - 16px) auto;
+    margin: 0 auto 2.4rem auto;
   }
 }
